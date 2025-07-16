@@ -77,39 +77,16 @@ bash
 
 - Visualizing residuals helped uncover model limitations
 
-🚀 How to Run
-Clone the repo:
-
-bash
-git clone https://github.com/Doyinakinloye/laptop-price-prediction.git
-cd laptop-price-prediction
-Create and activate a virtual environment:
-
-bash
-
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-Install dependencies:
-
-bash
-
-pip install -r requirements.txt
-Run the notebook:
-
-bash
-Copy code
-jupyter notebook notebooks/modeling.ipynb
+To run the code, open the file attached to this project.
 📚 Dataset
 Source: Kaggle Laptop Price Dataset
-
-Note: Dataset not included due to licensing. Please download it manually.
 
 🤝 Let's Connect!
 Have questions about regression workflows, model tuning, or feature engineering?
 Feel free to connect or reach out:
 
 LinkedIn: www.linkedin.com/in/akinloye-oluwadoyinsolami-66b7a72b9
-
+X : https://x.com/oluwadoyin41112
 Email: doyinakinloye07@gmail.com
 
 🏷️ Tags
